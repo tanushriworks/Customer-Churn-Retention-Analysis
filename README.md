@@ -98,8 +98,8 @@ The interactive dashboard includes:
 
 ## Project Files
 
-- `Customer_Churn_Retention_Analysis.xlsx` — Complete Excel analysis workbook
-- `dashboard_preview.png` — Dashboard preview image
+- `Customer_Churn_and_Retention_Analysis.xlsx` — Complete Excel analysis workbook
+- `customer_churn_dashboard_preview.png` — Dashboard preview image
 
 ## Conclusion
 
